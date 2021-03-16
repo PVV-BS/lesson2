@@ -1,4 +1,4 @@
-package ru.sber.javashool;
+package ru.sber.javashcool;
 
 public class Calculator {
 

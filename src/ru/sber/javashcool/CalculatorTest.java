@@ -1,4 +1,4 @@
-package ru.sber.javashool;
+package ru.sber.javashcool;
 
 import static org.junit.Assert.*;
 
