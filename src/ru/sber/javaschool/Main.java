@@ -1,4 +1,4 @@
-package ru.sber.javashcool;
+package ru.sber.javaschool;
 
 public class Main {
 
